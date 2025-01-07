@@ -1,2 +1,2 @@
 # PitchPerfect
-AI ad copy generator using DistilRoBERTa
+AI ad copy generator using generative AI. 
