@@ -5,5 +5,9 @@ Showing how to use open-source LLMs to generate ad copy for products and service
 This project uses large language models to streamline the process of creating ad copy for products and services. 
 
 <h2>Tech Stack</h2>
+-Python
+-HuggingFace LLMs
+-Jupyter Notebooks
 
 <h2>Enhancements</h2>
+
